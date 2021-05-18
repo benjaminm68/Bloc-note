@@ -1,4 +1,4 @@
-# initiation à REACT
+# Initiation à REACT
 
 Création d'un bloc-note
 
